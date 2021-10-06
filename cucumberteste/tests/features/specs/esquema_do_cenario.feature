@@ -2,6 +2,7 @@
 
 Funcionalidade: Calculo de multiplicacao
 
+@multiplicacao
 Esquema do Cenario: Fazer uma multiplicacao
 
     Quando eu multiplico minhas <laranjas> pelo <valor>
